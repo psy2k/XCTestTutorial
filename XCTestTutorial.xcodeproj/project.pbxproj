@@ -53,6 +53,7 @@
 		1A842271190BD61200736800 /* XCTestTutorialTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "XCTestTutorialTests-Info.plist"; sourceTree = "<group>"; };
 		1A842273190BD61200736800 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1A842275190BD61200736800 /* XCTestTutorialTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XCTestTutorialTests.m; sourceTree = "<group>"; };
+		1A842280190BDF6C00736800 /* ViewController_Private.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController_Private.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +117,7 @@
 				1A84225A190BD61200736800 /* AppDelegate.m */,
 				1A84225C190BD61200736800 /* Main.storyboard */,
 				1A84225F190BD61200736800 /* ViewController.h */,
+				1A842280190BDF6C00736800 /* ViewController_Private.h */,
 				1A842260190BD61200736800 /* ViewController.m */,
 				1A842262190BD61200736800 /* Images.xcassets */,
 				1A842251190BD61200736800 /* Supporting Files */,
