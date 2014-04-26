@@ -20,7 +20,6 @@
 - (void)setUp
 {
     [super setUp];
-    [super setUp];
     UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Main" bundle:nil];
     self.vc = [storyboard instantiateViewControllerWithIdentifier:@"testTableView"];
     [self.vc performSelectorOnMainThread:@selector(loadView) withObject:nil waitUntilDone:YES];
